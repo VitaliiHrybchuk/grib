@@ -6,4 +6,22 @@ footer {
 }
 .ol {
   font-style: italic;
+  font-weight: 700;
+}
+.section {
+  color: blueviolet;
+}
+.name {
+  text-align: center;
+}
+.you {
+  text-align:right;
+}
+.button {
+  text-align: right;
+}
+.osvita {
+  text-align: center;color: rgb(157, 89, 220);
+}.name{
+  text-align: center;
 }
