@@ -1,3 +1,9 @@
-header {
-  text-decoration: none;
+li {
+  text-decoration-line: none;
+}
+footer {
+  text-decoration-line:overline
+}
+.ol {
+  font-style: italic;
 }
